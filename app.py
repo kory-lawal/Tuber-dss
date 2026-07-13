@@ -10,7 +10,7 @@ except Exception:
     pass
 
 # Local diagnosis logic
-from diagnosis import diagnose
+from diagnosis import diagnose, set_language
 
 # Optional third-party imports
 try:
@@ -856,20 +856,57 @@ def yarngpt_synthesize(text: str, lang: str, out_path: str) -> bool:
         return False
 
 def speak(text, language="English", already_translated=False):
-    """Generate TTS audio response."""
+    """Generate TTS audio response with multi-fallback support."""
     try:
         requested = language_codes.get(language, "en")
         translated_text = text
+        file_path = "audio/response.mp3"
 
+        # For non-English languages, try translation
         if not already_translated and language != "English":
             try:
                 from deep_translator import GoogleTranslator
                 translated_text = GoogleTranslator(source='auto', target=requested).translate(text)
-            except Exception as e:
+            except Exception:
+                # If translation fails, use original text
                 translated_text = text
 
-        file_path = "audio/response.mp3"
+        # Priority 1: Use Yarngpt for African languages (preferred when configured)
+        if has_yarngpt and requested in ("yo", "ig", "ha"):
+            try:
+                ok = yarngpt_synthesize(translated_text, requested, file_path)
+                if ok:
+                    return file_path
+            except Exception:
+                pass
 
+        # Priority 2: Try gTTS (best quality for supported languages like English/Hausa)
+        if has_gtts:
+            try:
+                from gtts.lang import tts_langs
+                supported = tts_langs()
+                # Check if language is supported by gTTS
+                if supported and requested in supported:
+                    tts = gTTS(text=translated_text, lang=requested, slow=False)
+                    tts.save(file_path)
+                    return file_path
+            except Exception:
+                pass
+
+        # Priority 3: Use pyttsx3 as offline fallback for any language
+        try:
+            import pyttsx3
+            engine = pyttsx3.init()
+            # pyttsx3 typically writes WAV files; write to WAV then convert if needed
+            wav_path = file_path.replace('.mp3', '.wav')
+            engine.save_to_file(translated_text, wav_path)
+            engine.runAndWait()
+            if os.path.exists(wav_path):
+                return wav_path
+        except Exception:
+            pass
+
+        # Priority 4: Try Yarngpt as a secondary fallback if not tried above
         if has_yarngpt:
             try:
                 ok = yarngpt_synthesize(translated_text, requested, file_path)
@@ -878,16 +915,17 @@ def speak(text, language="English", already_translated=False):
             except Exception:
                 pass
 
-        if has_gtts:
+        # Priority 5: English fallback for gTTS
+        if has_gtts and language != "English":
             try:
-                tts = gTTS(text=translated_text, lang=requested, slow=False)
+                tts = gTTS(text=translated_text, lang="en", slow=False)
                 tts.save(file_path)
                 return file_path
             except Exception:
-                return None
+                pass
 
         return None
-    except Exception as e:
+    except Exception:
         return None
 
 # ============================================================================
@@ -931,6 +969,7 @@ translations = {
         "treatment": "Treatment",
         "confidence": "Confidence",
         "audio_response": "🔊 Listen to Treatment",
+        "audio_unavailable": "TTS is unavailable for your selected language.",
         "success": "Diagnosis Complete!"
     },
     "Yoruba": {
@@ -947,6 +986,7 @@ translations = {
         "treatment": "Itọ",
         "confidence": "Idaniloju",
         "audio_response": "🔊 Gbo Itọ",
+        "audio_unavailable": "TTS ko ṣiṣẹ fun ede ti a yan.",
         "success": "Ayẹwo Pari!"
     },
     "Hausa": {
@@ -963,6 +1003,7 @@ translations = {
         "treatment": "Maganin",
         "confidence": "Tabbas",
         "audio_response": "🔊 Sauraro Maganin",
+        "audio_unavailable": "Babu TTS don yaren da aka zaɓa.",
         "success": "Bincika Gama!"
     },
     "Igbo": {
@@ -979,6 +1020,7 @@ translations = {
         "treatment": "Ọgwu",
         "confidence": "Amamihe",
         "audio_response": "🔊 Gee Ọgwu",
+        "audio_unavailable": "TTS adịghị maka asụsụ ahọpụtara.",
         "success": "Atụmatụ Gara!"
     }
 }
@@ -994,6 +1036,7 @@ if "recording_status" not in st.session_state:
     st.session_state.recording_status = ""
 
 selected_language = st.session_state.selected_language
+set_language(selected_language)
 
 # ============================================================================
 # UI RENDERING
@@ -1183,6 +1226,8 @@ if st.session_state.diagnosis_result:
             unsafe_allow_html=True
         )
         st.audio(audio_file)
+    else:
+        st.warning(translations[selected_language]['audio_unavailable'])
 
 # RESET
 if reset_clicked:

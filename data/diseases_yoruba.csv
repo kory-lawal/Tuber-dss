@@ -1,0 +1,85 @@
+Disease,Symptoms,Treatment
+Àrùn ìgbẹ́ omi kokoro-arun,Ìgbẹ́ ewé ìyípadà ewé sí ofeefee àti ìbàjẹ́ rirọ,Yọ àwọn ewéko tí arun ti kàn kúrò kí o sì yàgò fún ìkójọpọ̀ omi púpọ̀ nínú ilẹ̀.
+Àrùn Mosaic Cassava,ewé ofeefee pẹ̀lú àpẹẹrẹ mosaic idagbasoke dínkù,Lo irugbin to lagbara ki o si yọ eweko arun kuro
+Àrùn Bacterial Blight,ewé n rọ dudu lori ewé ati iku igi,Lo igi mimọ ki o si yago fun omi lori ewé
+Ìbàjẹ́ Gbòngbò Cassava,gbòngbò rọ oorun buruku ikore dínkù,Ṣe amúlò ìṣàn omi dáadáa ki o si yọ eweko arun
+Àrùn Anthracnose Yam,àwọ̀ dudu lori ewé ati gbigbẹ igi,Lo oogun fungus ki o si jẹ́ kí oko mọ́
+Ìbàjẹ́ Tuber Yam,tuber rọ oorun buruku ibajẹ,Pa tuber mọ́ ni ibi gbigbẹ
+Àrùn Ewé Sweet Potato,awọ̀ brown lori ewé pẹlu ofeefee,Lo oogun fungus ki o si yọ ewé tí o bajẹ
+Àrùn Virus Sweet Potato,ewé yí pada ofeefee idagbasoke dínkù,Lo irugbin ti ko ni arun
+Àrùn Bacterial Wilt,ewé n rọ ati ìbàjẹ́ rirọ,Yọ eweko arun ki o si yago fun omi pupọ
+Leaf Blight,ewé n di brown ati gbigbẹ,Lo fungicide ki o si fun aaye laarin eweko
+Nematode Root Knot,gbòngbò tú ati ewé ofeefee,Lo irugbin to lagbara ati yí irugbin pada
+Àrùn Green Mite,ewé yipada ati funfun kekere,Lo ọna abayọ ati irugbin to lagbara
+Ibajẹ Beetle Yam,ihò ninu tuber ati ikore dínkù,Lo oogun kokoro ki o si sọ oko di mimọ
+Early Blight,àwọ̀ brown yika lori ewé,Lo fungicide nigbagbogbo
+Late Blight,abala omi lori ewé ati ibajẹ,Lo irugbin to lagbara ati fungicide
+Fusarium Wilt,ewé ofeefee ati ikú gbòngbò,Lo irugbin to lagbara ki o si yí oko pada
+Downy Mildew,funfun labẹ ewé ati abala ofeefee,Lo fungicide ki o si dinku ọriniinitutu
+Black Rot,abala dudu ati ibajẹ gbòngbò,Yọ eweko arun kuro ki o si yí oko pada
+Soft Rot,ara rọ ati oorun buruku,Ṣe itọju ibi ipamọ daradara
+Leaf Curl,ewé yí ka ati idagbasoke dínkù,Ṣakoso kokoro ki o si lo irugbin to dara
+Stem Rot,ibajẹ igi ati ewé n rọ,Ṣe amúlò ìṣàn omi ati fungicide
+Cassava Mosaic Disease,eewu ofeefee ati alawọ ewe lori ewe apẹrẹ ewe ti o daru idagba ti o dinku,Gbin oriṣi ti ko ni akoran yọ ki o si sun awọn ohun ọgbin ti o ni akoran ṣakoso kokoro funfun ti nfa arun
+Cassava Brown Streak Disease,ila brown lori igi awọn abawọn ofeefee lori ewe jijẹ brown gbigbẹ ninu awọn gbongbo,Lo ohun elo gbingbin ti a jẹrisi ti ko ni arun yọ ki o si pa awọn ohun ọgbin ti o ni akoran run
+Cassava Bacterial Blight,awọn abawọn ewe onigun mẹrin ti omi rin ewe rirọ ito jijade lori igi,Lo ohun elo gbingbin ti o mọ ṣe iyipo irugbin yago fun ṣiṣẹ ni oko tutu
+Cassava Anthracnose Disease,ọgbẹ dudu ti o wọ inu lori igi ọgbẹ lori ẹka iku ori eweko,Ge ki o si pa awọn ẹya ti o ni akoran run lo oogun fungicide ti a ṣe iṣeduro lo oriṣi ti ko ni akoran
+Cassava Root Rot,gbongbo rirọ ti o jẹ mimu oorun buburu ewe ti n di ofeefee ti o si n rọ,Mu ẹkun omi oko dara si yago fun omi to pọ ju lo eso ti ko ni arun lo oogun fungicide sori ile
+Cassava Green Mite Infestation,ewe ti o yiyi ti o si tẹ awọn aami ofeefee lori oju ewe iwọn ewe ti o dinku,Mu awọn apanirun adayeba wa lo oriṣi ti ko ni akoran yago fun aini omi lori eweko
+Cassava Mealybug Infestation,ori eweko ti ko dagba irisi opo lori oke kokoro funfun ti o dabi epo-eti lori igi,Mu awọn ọta adayeba wa lo eso ti a jẹrisi yago fun gbigbe ohun elo gbingbin ti o ni kokoro
+Cassava Ash Whitefly Sooty Mould,ideri dudu bi eeru lori oju ewe photosynthesis ti o dinku oyin alalepo lori ewe,Ṣakoso iye kokoro funfun pẹlu oogun apakokoro fọ ewe ti o kan ge awọn ẹka ti kokoro pọ si
+Yam Mosaic Virus,awọn abawọn alawọ ewe imole ati dudu lori ewe apẹrẹ ewe ti o daru eso isu ti o dinku,Lo isu irugbin ti ko ni kokoro arun yọ awọn ohun ọgbin ti o ni akoran ṣakoso kokoro aphid
+Yam Anthracnose Disease,awọn abawọn ewe brown dudu yiyọ ewe kuro iku ni opin ẹka,Lo oogun fungicide ti o yẹ lo oriṣi ti ko ni akoran yago fun gbingbin sunmọ ara wọn ju
+Yam Dry Rot,iyipada awọ brown ti o le ti o gbẹ ninu isu awọ isu ti o rẹwẹsi,Lo eso to dara fun gbingbin fi ipamọ to dara sile toju eso pẹlu oogun fungicide ki o to gbin
+Yam Wet Rot,jijera rirọ ti o ni omi ti isu oorun buburu iṣubu ti ẹya ara isu,Mu ọna omi ti o jade ni ibi ipamọ dara si yago fun ipalara nigba ikore lo ohun elo gbingbin ti ko ni arun
+Yam Nematode Damage,awọ isu ti o le ti o si fọ ọgbẹ brown ninu idagba ohun ọgbin ti o dinku,Ṣe iyipo irugbin lo ohun elo gbingbin ti ko ni kokoro nematode lo atunse ile Organic
+Yam Beetle Damage,awọn ihò ti a gbẹ sinu ara isu ojuami ti o han lori awọ isu,Kore ni akoko to yẹ lo oogun apakokoro ti a ṣe iṣeduro lo isu irugbin ti o mọ
+Yam Leaf Spot,awọn abawọn brown yika kekere lori ewe iwọn ofeefee ni ayika awọn abawọn ewe ti n bọ ni kutukutu,Fun sokiri oogun fungicide yọ ewe ti o ti bọ ti o ni akoran yago fun irigeson lati oke
+Yam Tuber Storage Rot,isu ti a fi pamọ ti n dinku ti o si di rirọ idagba mimu lori ara oorun buburu,Fi pamọ sinu abà ti o ni afẹfẹ to dara wo isu san ki a to fi pamọ yọ isu ti o bajẹ nigbagbogbo
+Sweet Potato Virus Disease,ẹka ti ko dagba ewe kekere ti o di ofeefee iṣọn ewe ti o di eleyi ti eso gbongbo ti o dinku,Lo ohun elo gbingbin ti a ṣe idanwo kokoro arun ṣakoso aphid ati kokoro funfun yọ ohun ọgbin ti o ni akoran
+Sweet Potato Weevil Damage,ihò ti a gbẹ sinu gbongbo itọwo kikorò ati oorun buburu ninu gbongbo ti o kan ẹka ti o rọ,Ṣe iyipo irugbin ko ile jọ ni ipilẹ kore ni kiakia lo ohun elo gbingbin ti o mọ
+Sweet Potato Black Rot,ọgbẹ dudu ti o wọ inu lori gbongbo itọwo kikorò awọn abawọn dudu lori awọn eso ti n jade,Lo abereyo ti ko ni arun ṣe iyipo irugbin yago fun pipa gbongbo lara nigba ikore
+Sweet Potato Scurf,abawọn brown dudu ti kii ṣe jinlẹ lori awọ gbongbo ara ti o le ko si ipalara inu,Lo ohun elo gbingbin ti ko ni arun ṣe iyipo irugbin wo gbongbo san daradara lẹhin ikore
+Sweet Potato Foot Rot,ọgbẹ dudu ni ipilẹ igi rirọ ati iku ẹka iyipada awọ dudu ti n gbooro si oke,Yọ ki o si pa awọn ohun ọgbin ti o ni akoran run yago fun omi to pọ ju lo oriṣi ti ko ni akoran
+Sweet Potato Fusarium Wilt,ewe isale ti n di ofeefee ti o si n rọ iyipada awọ brown ti iṣan ara idagba ẹka ti o dinku,Lo oriṣi ti ko ni akoran ṣe iyipo irugbin yago fun gbingbin sinu ile ti o ni kokoro
+Sweet Potato Leaf Spot,awọn abawọn yika kekere ti awọ tan pẹlu awọn eti dudu lori ewe yiyọ ewe kuro ni kutukutu,Fun sokiri oogun fungicide yọ idoti ewe ti o ni akoran yago fun fifun omi lati oke
+Sweet Potato Soft Rot,jijera rirọ ti o ni omi ti gbongbo ti a fi pamọ oorun buburu itankale kiakia ni ipamọ,Wo gbongbo san ki a to fi pamọ fi pamọ si aaye gbigbẹ ti o ni afẹfẹ yọ gbongbo ti o bajẹ ni kiakia
+Sweet Potato Root Knot Nematode,wiwu lori gbongbo idagba ẹka ti o dinku ewe ti n di ofeefee,Ṣe iyipo irugbin lo oriṣi ti ko ni kokoro nematode lo nkan Organic sori ile
+Cassava Superelongation Disease,gigun ajeji ti awọn ẹka igi tinrin ti ko lera idasile isu ti o dinku,Lo oriṣi ti ko ni akoran lo oogun fungicide to yẹ yago fun ajile nitrogen to pọ ju
+Cassava White Leaf Spot,awọn abawọn funfun si eeru kekere pẹlu eti dudu lori ewe yiyọ ewe ni kutukutu,Lo oogun fungicide ti o da lori bàbà yọ ki o si pa ewe ti o ṣubu run mu ààyè oko dara si
+Cassava Brown Leaf Spot,awọn abawọn brown yika pẹlu iwọn ofeefee lori ewe agbalagba yiyọ ewe kuro diẹdiẹ,Yọ ewe ti o ni akoran lo oogun fungicide ti o ba le lo aaye gbingbin ti o gbooro
+Cassava Witches Broom Disease,ikojọpọ ajeji ti eweko ewe kekere ti o daru ti o si di ofeefee eso isu ti o dinku,Yọ ki o si pa awọn ohun ọgbin ti o kan run ṣakoso kokoro leafhopper lo ohun elo gbingbin ti o mọ
+Cassava Rust,awọn oyun osan si brown labẹ ewe iwaju ewe ti n di ofeefee,Lo oogun fungicide to yẹ yọ ewe ti akoran ti le mu ki afẹfẹ san larin eweko
+Cassava Scab,ọgbẹ ti o le ti o si ga soke lori igi ati petiole fifọ ti epo igi,Ge awọn ẹya ti o kan lo oogun fungicide lo eso ti ko ni arun fun gbingbin titun
+Cassava Stem Borer Damage,ihò ti a gbẹ sinu igi ẹka oke ti n rọ ilana ohun ọgbin ti o rẹwẹsi,Yọ ki o si sun awọn igi ti kokoro pọ si lo ohun elo gbingbin ti o mọ lo oogun apakokoro ti a ṣe iṣeduro
+Cassava Termite Damage,igi ati gbongbo ti o ṣofo ipilẹ ohun ọgbin ti o rẹwẹsi iṣubu ti eweko ti o dagba,Yọ idoti ohun ọgbin ti kokoro pọ si lo oriṣi ti ko ni kokoro esunsun lo itọju oogun apakokoro sori ile
+Cassava Scale Insect Infestation,kokoro brown tabi funfun kekere bi irẹjẹ lori igi agbara ti o dinku ewe ti n di ofeefee,Mu awọn apanirun adayeba wa fun sokiri epo horticultural ge awọn igi ti kokoro pọ si
+Cassava Grasshopper Damage,ihò aidogba ti a jẹ ninu ewe yiyọ ewe patapata ninu awọn ọran to le photosynthesis ti o dinku,Lo oogun apakokoro ti a ṣe iṣeduro fun awọn apanirun adayeba bii eye niyanju kore ni kutukutu ti akoran ba le
+Cassava Nitrogen Deficiency,ewe ofeefee didan idagba ti o dinku igi tinrin idagbasoke isu ti ko dara,Lo ajile ọlọrọ ninu nitrogen fi maalu Organic kun ṣe iyipo irugbin to dara
+Cassava Potassium Deficiency,ewe ti n di ofeefee ni eti ewe eti ewe ti o le fọ iwọn gbongbo ati isu ti ko dara,Lo ajile ọlọrọ ninu potasiomu lo eeru igi gege bi orisun Organic ṣe idanwo ile nigbagbogbo
+Yam Leaf Blight,ọgbẹ ti omi rin lori ewe itankale kiakia ni oju ojo tutu iṣubu ewe,Fun sokiri oogun fungicide nigba akoko tutu mu ẹkun omi oko dara si yago fun gbingbin sunmọ ara wọn ju
+Yam Rust,awọn oyun awọ osan bi ipata labẹ ewe ewe ti n di ofeefee ati sisọ ni kutukutu,Lo oogun fungicide ti o da lori sulfur yọ ewe ti akoran ti le rii daju aaye oko to dara
+Yam Scale Insect Infestation,irẹjẹ brown kekere ti o so mọ ara isu didara isu ti o dinku ifun eso ti o pẹ,Toju eso pẹlu oogun apakokoro ki o to gbin fi isu pamọ ni ipo gbigbẹ ti o mọ
+Yam Shoot Beetle Damage,ihò ninu awọn eweko ọdọ ipari ẹka ti n rọ idagba akọkọ ti o dinku,Lo oogun apakokoro ti a ṣe iṣeduro nigba gbingbin yọ ki o si pa eweko ti kokoro pọ si run
+Yam Termite Damage,ihò ti a gbẹ sinu isu ati ipilẹ igi ohun ọgbin ti o rẹwẹsi iṣubu ẹka,Yọ idoti ohun ọgbin ti kokoro pọ si lo oogun apakokoro sori ile lo eso ti ko ni kokoro esunsun
+Yam Bacterial Soft Rot,jijera tutu alalepo pẹlu oorun buburu fifọ ẹya ara kiakia ninu ipamọ,Wo isu san daradara ki a to fi pamọ yago fun ipalara nigba ikore da isu ti o kan nu lesekese
+Yam Smut Disease,ere spore dudu bi eruku lori ara isu ati eweko idagba ohun ọgbin ti o dinku,Lo ohun elo gbingbin ti ko ni arun yago fun gbingbin ni oko ti o ti ni akoran tẹlẹ toju ile ki o to gbin
+Yam Mild Mosaic Virus,ipare alawọ ewe ina laini lori ewe iparun ewe die eso ti o dinku diẹ,Lo isu irugbin ti a ṣe idanwo kokoro arun ṣakoso kokoro aphid yọ ohun ọgbin ti o kan gidigidi kuro
+Yam Nitrogen Deficiency,ewe alawọ didan si ofeefee agbara ẹka ti o dinku iwọn isu kekere,Lo ajile nitrogen ni ipele idagba to yẹ fi maalu compost kun ṣe iyipo irugbin
+Yam Potassium Deficiency,jijona ni eti ewe idagba ẹka alailera isu ti ko dagba daradara,Lo ajile potasiomu lo eeru igi gege bi afikun rii daju awọn ounjẹ ile to dọgba
+Yam Tuber Cracking Disorder,awọn fifọ gigun lori ara isu ti omi aidogba fa iye ọja ti o dinku,Rii daju ọrinrin ile to duro nipasẹ mulching yago fun irigeson eru lojiji lẹhin akoko gbigbẹ kore ni akoko idagbasoke to yẹ
+Yam Internal Browning Storage Disorder,iyipada awọ brown inu lai si ami ita ti n ṣẹlẹ nigba ipamọ gigun,Fi pamọ ni iwọn otutu ati ọrinrin ti a ṣe iṣeduro yago fun ipalara ẹrọ nigba mimu abojuto isu ti a fi pamọ nigbagbogbo
+Sweet Potato Leaf Curl Virus,yiyi ewe si oke nipọn ewe idagba ẹka ti o dinku,Lo ohun elo gbingbin ti ko ni kokoro arun ṣakoso kokoro funfun yọ ohun ọgbin ti o kan gidigidi kuro
+Sweet Potato Mild Mottle Virus,ipare die lori ewe iparun ewe die adanu eso kekere,Lo eso ẹka ti a jẹrisi ti ko ni kokoro arun ṣakoso kokoro aphid yago fun tun gbingbin lati oko ti o ni akoran
+Sweet Potato Chlorotic Stunt Virus,idagba ti o dinku gidigidi iṣọn ewe ti n di ofeefee idasile gbongbo ipamọ ti o dinku,Lo ohun elo gbingbin ti a ṣe atokasi arun ṣakoso kokoro funfun yọ ohun ọgbin ti o ni akoran lesekese
+Sweet Potato Bacterial Wilt,rirọ lojiji ti gbogbo ohun ọgbin iyipada awọ brown ti iṣan ara omi kokoro lati igi ti a ge,Lo oriṣi ti ko ni akoran ṣe iyipo irugbin yago fun gbingbin ni oko ti o ti ni akoran tẹlẹ
+Sweet Potato Scab,ọgbẹ ti o le ti o si ga soke lori ara gbongbo didara ọja ti o dinku,Lo ohun elo gbingbin ti ko ni arun yago fun gbingbin ni ile ti o ni akoran fun ọpọlọpọ akoko pa iwontunwonsi pH ile mọ
+Sweet Potato Alternaria Leaf Spot,awọn abawọn brown dudu yika pẹlu iyika lori ewe yiyọ ewe kuro ni kutukutu,Fun sokiri oogun fungicide yọ idoti ohun ọgbin ti o ni akoran yago fun irigeson lati oke
+Sweet Potato White Rust,oyun funfun bi roro labẹ ewe yiyi ati iparun ewe,Fun sokiri oogun fungicide yọ ewe ti akoran ti le rii daju afẹfẹ san daradara
+Sweet Potato Stem Rot,ọgbẹ dudu ni ipilẹ igi rirọ ati di ofeefee ti ẹka iṣubu ohun ọgbin,Yọ ki o si pa awọn ohun ọgbin ti o ni akoran run yago fun ile ti omi bò lo eso ti ko ni arun
+Sweet Potato Mole Cricket Damage,ihò ti a gbẹ nipasẹ gbongbo ati igi ẹka ọdọ ti n rọ eweko ti a fa tu,Mura ile silẹ daradara ki a to gbin lo oogun apakokoro sori ile lo idẹkùn ìdẹ
+Sweet Potato Flea Beetle Damage,ihò yika kekere ninu ewe irisi iho ibọn photosynthesis ti o dinku,Lo oogun apakokoro ti a ṣe iṣeduro yọ èpo ti o gba kokoro sile yi irugbin pada nigbagbogbo
+Sweet Potato Termite Damage,igi ati gbongbo ti o ṣofo ilana ohun ọgbin ti o rẹwẹsi rirọ ati iṣubu lojiji,Yọ idoti ohun ọgbin ti kokoro pọ si lo oogun apakokoro sori ile lo ohun elo gbingbin ti ko ni kokoro esunsun
+Sweet Potato Nitrogen Deficiency,ewe alawọ ofeefee didan idagba ẹka ti o dinku iwọn gbongbo kekere,Lo ajile nitrogen ni ipele idagba akọkọ fi compost kun mu ilora ile dara si
+Sweet Potato Potassium Deficiency,eti ewe ti o jona idagba ẹka alailera didara gbongbo ipamọ ti ko dara,Lo ajile potasiomu lo afikun eeru igi ṣe idanwo ile ki a to gbin
+Sweet Potato Internal Cork Disorder,ẹya ara brown ti o le ninu gbongbo ti a ko le riran lati ita ti kokoro arun eka fa,Lo ohun elo gbingbin ti a jẹrisi ti ko ni arun ṣakoso kokoro aphid ati kokoro funfun yago fun isodipupo lati ohun ọgbin ti o kan

@@ -1,30 +1,59 @@
+import os
 import pandas as pd
 from difflib import SequenceMatcher
 
-# Load disease database
-try:
-    df = pd.read_csv("data/diseases.csv", encoding='utf-8', on_bad_lines='skip')
-    print(f"Loaded {len(df)} disease entries")
-except Exception as e:
-    print(f"Error loading CSV: {e}")
-    # Fallback data if CSV fails
-    df = pd.DataFrame({
-        "Disease": [
-            "Cassava Mosaic Disease",
-            "Yam Anthracnose",
-            "Bacterial Wilt"
-        ],
-        "Symptoms": [
-            "yellow leaves mosaic pattern stunted growth",
-            "black spots leaf blight stem dieback",
-            "wilting yellowing soft rot"
-        ],
-        "Treatment": [
-            "Use resistant varieties and remove infected plants",
-            "Apply fungicide and improve field sanitation",
-            "Remove infected plants and avoid waterlogging"
-        ]
-    })
+LANGUAGE_CSV_FILES = {
+    "English": "data/diseases_english.csv",
+    "Yoruba": "data/diseases_yoruba.csv",
+    "Hausa": "data/diseases_hausa.csv",
+    "Igbo": "data/diseases_igbo.csv"
+}
+DEFAULT_LANGUAGE = "English"
+current_language = DEFAULT_LANGUAGE
+
+def load_csv(path):
+    try:
+        df_local = pd.read_csv(path, encoding='utf-8', on_bad_lines='skip')
+        print(f"Loaded {len(df_local)} disease entries from {path}")
+        return df_local
+    except Exception as e:
+        print(f"Error loading CSV {path}: {e}")
+        return None
+
+
+def set_language(language):
+    global df, current_language
+    language = language if language in LANGUAGE_CSV_FILES else DEFAULT_LANGUAGE
+    current_language = language
+    csv_path = LANGUAGE_CSV_FILES[language]
+    df_local = load_csv(csv_path)
+    if df_local is None:
+        if language != DEFAULT_LANGUAGE:
+            print(f"Falling back to {DEFAULT_LANGUAGE} disease data")
+            df_local = load_csv(LANGUAGE_CSV_FILES[DEFAULT_LANGUAGE])
+    if df_local is None:
+        df_local = pd.DataFrame({
+            "Disease": [
+                "Cassava Mosaic Disease",
+                "Yam Anthracnose",
+                "Bacterial Wilt"
+            ],
+            "Symptoms": [
+                "yellow leaves mosaic pattern stunted growth",
+                "black spots leaf blight stem dieback",
+                "wilting yellowing soft rot"
+            ],
+            "Treatment": [
+                "Use resistant varieties and remove infected plants",
+                "Apply fungicide and improve field sanitation",
+                "Remove infected plants and avoid waterlogging"
+            ]
+        })
+    df = df_local
+
+
+# Load default language data on import
+set_language(DEFAULT_LANGUAGE)
 
 def similarity(a, b):
     """Calculate similarity ratio between two strings."""

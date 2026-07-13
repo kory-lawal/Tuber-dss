@@ -1,0 +1,86 @@
+Disease,Symptoms,Treatment
+Cutar ƙwayoyin cuta ta bushewar shuka,Bushewar ganye rawayar ganye da rubewar laushi,Cire tsire-tsiren da suka kamu da cuta kuma a guji taruwar ruwa a ƙasa.
+Cutar Anthracnose ta doya,Baƙaƙen digo a ganye lalacewar ganye da bushewar kara,A yi amfani da maganin kashe ƙwayoyin fungus kuma a inganta tsaftar gona.
+Cutar Mosaic Cassava,ganye rawaya da tsarin mosaic girma ya ragu,Yi amfani da iri masu juriya kuma cire tsire-tsire masu cuta
+Cutar Bacterial Blight,ganye suna bushewa da tabo a jiki,Yi amfani da tsaba masu tsafta
+Cutar Root Rot,tushen yana rubewa da wari mara kyau,Inganta magudanar ruwa
+Cutar Anthracnose Yam,baƙaƙen digo a ganye da bushewar kara,Yi amfani da maganin fungus
+Rubewar Tuber Yam,tuber yana lalacewa da wari,Ajiye a wuri bushe
+Cutar Leaf Spot,tabo a ganye da rawaya,Yi amfani da fungicide
+Cutar Virus Sweet Potato,ganye na murɗewa da rawaya,Yi amfani da tsaba marasa cuta
+Bacterial Wilt,shuka na bushewa da rubewa,Cire tsire-tsire masu cuta
+Leaf Blight,ganye suna bushewa da launin ruwan kasa,Yi amfani da fungicide
+Root Knot Nematode,tushen yana kumbura da ganye rawaya,Yi juyar da amfanin gona
+Cutar Green Mite,ganye suna lalacewa,Yi amfani da hanyoyin kare shuka
+Ibajewar Beetle Yam,ramuka a tuber,Yi amfani da maganin kwari
+Early Blight,tabo mai launin ruwan kasa,Yi amfani da fungicide
+Late Blight,ruwa a jikin ganye,Yi amfani da iri masu juriya
+Fusarium Wilt,ganye rawaya da mutuwar shuka,Yi juyar da amfanin gona
+Downy Mildew,fari a karkashin ganye,Yi amfani da fungicide
+Black Rot,tabo baki a tushen,Cire tsire-tsire masu cuta
+Soft Rot,tissue mai laushi da wari,Inganta ajiyar kaya
+Leaf Curl,ganye suna murɗewa,Yi amfani da tsaba masu kyau
+Stem Rot,kara tana lalacewa,Inganta magudanar ruwa
+Cassava Mosaic Disease,alamun rawaya da kore a ganye siffar ganye ta canza girma ya tsaya,Shuka nau'in da ke jure wa cutar cire kuma a kona shukokin da suka kamu da cutar shawo kan farin fara mai daukar cuta
+Cassava Brown Streak Disease,layuka masu launin ruwan kasa a kan tsiro alamun rawaya a ganye ruɓewa mai launin ruwan kasa a cikin tushen,Yi amfani da tsaba mai tabbaci wanda babu cuta cire kuma a lalata shukokin da suka kamu da cutar
+Cassava Bacterial Blight,tabon ganye masu kusurwa da ruwa ganye na yankewa ruwan roba yana fitowa daga tsiro,Yi amfani da tsaba mai tsabta yi jujjuya amfanin gona guji aiki a gonaki masu ruwa
+Cassava Anthracnose Disease,raunuka masu duhu da nutsewa a tsiro ciwace ciwace mutuwar sabbin harbe,Yanke kuma a lalata sassan da suka kamu da cutar yi amfani da maganin fungicide da aka ba da shawara yi amfani da nau'in da ke jure wa cutar
+Cassava Root Rot,tushen da ke da laushi da ruɓewa wari mai muni ganye na rawaya kuma na yankewa,Inganta zubar da ruwa a gona guji tsananin ruwa yi amfani da yankakken tsiro mara cuta yi amfani da maganin fungicide a kasa
+Cassava Green Mite Infestation,ganye masu tabo da murɗewa ɗigo rawaya a bayan ganye ƙaramin girman ganye,Kawo dabbobin da ke cin wannan kwaro yi amfani da nau'in da ke jure wa cutar guji karancin ruwa a tsire tsire
+Cassava Mealybug Infestation,tsayawar girman sabbin harbe kama da tarin kwari fararen kwari masu kaman kakin zuma a tsiro,Kawo makiya na dabi'a yi amfani da yankakken tsiro mai tabbaci guji tura shuke shuke da ke da kwari
+Cassava Ash Whitefly Sooty Mould,rufin baki mai kama da toka a bayan ganye rage aikin photosynthesis zuma mai lika a ganye,Shawo kan yawan farin fara da maganin kwari wanke ganyen da abin ya shafa yanke rassan da suka cika da kwari
+Yam Mosaic Virus,tabo masu haske da duhu kore a ganye siffar ganye ta canza rage yawan doya,Yi amfani da iri doya mara kwayar cuta cire shukokin da suka kamu da cutar shawo kan kwari masu daukar cuta
+Yam Anthracnose Disease,tabo masu duhu launin ruwan kasa a ganye zube ganye mutuwar karshen tsiro,Yi amfani da maganin fungicide da ya dace yi amfani da nau'in da ke jure wa cutar guji shuka kusa da juna
+Yam Dry Rot,canjin launi mai launin ruwan kasa da bushewa a cikin doya nunkushewar fatar doya,Yi amfani da nagartaccen tsaba don shuka yi ajiya mai kyau yi wa tsaba magani da fungicide kafin shuka
+Yam Wet Rot,ruɓewar doya mai laushi da ruwa wari mai muni rushewar naman doya,Inganta zubar da ruwa a ma'ajiya guji rauni lokacin girbi yi amfani da tsiro mara cuta
+Yam Nematode Damage,fatar doya mai kauri da fashe raunuka masu launin ruwan kasa a ciki girman tsiro ya tsaya,Yi jujjuya amfanin gona yi amfani da tsiro mara kwayar nematode yi amfani da takin gargajiya
+Yam Beetle Damage,ramuka da aka huda a cikin naman doya tabo a fatar doya,Girbi a kan lokaci yi amfani da maganin kwari da aka ba da shawara yi amfani da tsaba mai tsabta
+Yam Leaf Spot,tabo kanana masu launin ruwan kasa a ganye zoben rawaya kewaye da tabo ganyayyaki na fadowa da wuri,Yi amfani da maganin fungicide cire ganyen da suka fado da suka kamu da cutar guji ban ruwa daga sama
+Yam Tuber Storage Rot,doyar da ake ajiyewa tana raguwa kuma tana taushi girman gyambo a bayanta wari mai muni,Ajiye a rumbu mai iska mai kyau warkar da doya kafin ajiya cire doyar da ta lalace akai akai
+Sweet Potato Virus Disease,tsayawar girman kara ganyaye kanana masu rawaya jijiyar ganye ta canza launi rage yawan tushen amfanin gona,Yi amfani da tsiro da aka gwada babu kwayar cuta shawo kan kwari masu daukar cuta cire shukokin da suka kamu da cutar
+Sweet Potato Weevil Damage,ramuka a cikin tushen ɗanɗano mai daci da wari mai muni a tushen da abin ya shafa yankewar kara,Yi jujjuya amfanin gona tara kasa kewaye da gindin shuka girbi da wuri yi amfani da tsiro mai tsabta
+Sweet Potato Black Rot,raunuka baki da nutsewa a tushen ɗanɗano mai daci tabo baki a sabbin toho,Yi amfani da yankakken tsiro mara cuta yi jujjuya amfanin gona guji jin ciwon tushen lokacin girbi
+Sweet Potato Scurf,tabo masu duhu launin ruwan kasa a bayan fatar tushen babu lalacewa a ciki,Yi amfani da tsiro mara cuta yi jujjuya amfanin gona warkar da tushen sosai bayan girbi
+Sweet Potato Foot Rot,rauni baki a gindin tsiro yankewa da mutuwar kara canjin launi na yaduwa sama,Cire kuma a lalata shukokin da suka kamu da cutar guji tsananin ruwa yi amfani da nau'in da ke jure wa cutar
+Sweet Potato Fusarium Wilt,ganyaye na kasa suna rawaya kuma suna yankewa canjin launi na jijiyoyin ruwa girman kara ya tsaya,Yi amfani da nau'in da ke jure wa cutar yi jujjuya amfanin gona guji shuka a kasa mai kwari
+Sweet Potato Leaf Spot,tabo kanana masu zagaye da launi mai duhu a gefe a ganye zuben ganye da wuri,Yi amfani da maganin fungicide cire tarkacen ganyen da suka kamu da cutar guji ban ruwa daga sama
+Sweet Potato Soft Rot,ruɓewa mai laushi da ruwa a tushen da aka ajiye wari mai muni yaduwa da sauri a ma'ajiya,Warkar da tushen kafin ajiya ajiye a wuri mai bushewa da iska cire tushen da ya lalace nan take
+Sweet Potato Root Knot Nematode,kumburin tushe girman kara ya tsaya ganye na rawaya,Yi jujjuya amfanin gona yi amfani da nau'in da ke jure wa nematode yi amfani da takin gargajiya
+Cassava Superelongation Disease,tsawaita ba daidai ba na sassan tsiro sirara marasa karfi rage samuwar tuber,Yi amfani da nau'in da ke jure wa cutar yi amfani da maganin fungicide da ya dace guji taki nitrogen fiye da kima
+Cassava White Leaf Spot,tabo fari zuwa toka kanana masu iyaka duhu a ganye zuben ganye da wuri,Yi amfani da maganin fungicide na tagulla cire kuma a lalata ganyen da suka fado inganta tazara a gona
+Cassava Brown Leaf Spot,tabo masu launin ruwan kasa da ke zagaye da zobe rawaya a tsofaffin ganye zuben ganye a hankali,Cire ganyen da suka kamu da cutar yi amfani da maganin fungicide idan yayi tsanani yi amfani da tazara mai fadi
+Cassava Witches Broom Disease,tarin sabbin harbe ba daidai ba kananan ganye masu lalacewa da rawaya rage yawan doya,Cire kuma lalata shukokin da abin ya shafa shawo kan kwarin leafhopper mai daukar cuta yi amfani da tsiro mai tsabta
+Cassava Rust,fesa lemu zuwa launin ruwan kasa a karkashin ganye rawaya a bayan ganye,Yi amfani da maganin fungicide da ya dace cire ganyen da suka kamu da cutar sosai inganta yaduwar iska tsakanin tsire tsire
+Cassava Scab,raunuka masu kauri da tashe a tsiro da petiole fashewar bawon itace,Yanke sassan da abin ya shafa yi amfani da maganin fungicide yi amfani da yankakke mara cuta don sabon shuki
+Cassava Stem Borer Damage,ramuka a cikin tsiro sabbin harbe na yankewa tsarin shuka ya raunana,Cire kuma kona tsirorai da suka cika da kwari yi amfani da tsiro mai tsabta yi amfani da maganin kwari da aka ba da shawara
+Cassava Termite Damage,tsire da tushen da aka rurrushe tushen tsiro ya raunana rushewar cikakkun tsire tsire,Cire tarkacen shuka da kwari ya cinye yi amfani da nau'in da ke jure wa gara yi amfani da maganin kwari a kasa
+Cassava Scale Insect Infestation,kanana kwari masu launin ruwan kasa ko fari kama da fatun kifi a tsiro raunanar tsiro ganye na rawaya,Kawo dabbobin da ke cin wannan kwaro yi amfani da man horticultural yanke tsirorai da suka cika da kwari
+Cassava Grasshopper Damage,ramuka marasa daidaito da aka ci a ganye zuben ganye gaba daya idan yayi tsanani rage aikin photosynthesis,Yi amfani da maganin kwari da aka ba da shawara karfafa dabbobin da ke cin kwari kamar tsuntsaye girbi da wuri idan kwarin ya yi tsanani
+Cassava Nitrogen Deficiency,ganye masu rawaya haske girman tsiro ya tsaya siriman tsiro rashin kyawon ci gaban tuber,Yi amfani da takin nitrogen sanya taki na gargajiya yi jujjuya amfanin gona yadda ya kamata
+Cassava Potassium Deficiency,rawaya a gefen ganye gefen ganye mai rauni rashin kyawon girman tushe da tuber,Yi amfani da takin potassium yi amfani da tokar itace a matsayin tushen gargajiya gwada kasa akai akai
+Yam Leaf Blight,raunuka masu ruwa a ganye yaduwa da sauri a lokacin damina rushewar ganye,Yi amfani da maganin fungicide a lokacin damina inganta zubar da ruwa a gona guji shuka kusa da juna
+Yam Rust,fesa lemu kama da tsatsa a karkashin ganye rawaya da fadowar ganye da wuri,Yi amfani da maganin fungicide na sulfur cire ganyen da suka kamu da cutar sosai tabbatar da tazara mai kyau a gona
+Yam Scale Insect Infestation,kanana kwari masu launin ruwan kasa masu manne wa a fatar doya rage ingancin doya toho ya jinkirta,Yi wa tsaba magani da kwari kafin shuka ajiye doya a wuri mai bushewa da tsabta
+Yam Shoot Beetle Damage,ramuka a cikin sabbin harbe karshen tsiro na yankewa raguwar girma na farko,Yi amfani da maganin kwari da aka ba da shawara a lokacin shuka cire kuma a lalata harben da suka cika da kwari
+Yam Termite Damage,ramuka a cikin doya da gindin tsiro tsiro ya raunana rushewar kara,Cire tarkacen shuka da kwari ya cinye yi amfani da maganin kwari a kasa yi amfani da tsaba mai jure wa gara
+Yam Bacterial Soft Rot,ruɓewa mai laushi da ruwa da wari mai muni rushewar naman jiki da sauri a ajiya,Warkar da doya sosai kafin ajiya guji rauni lokacin girbi zubar da doyar da abin ya shafa nan take
+Yam Smut Disease,tarin spore baki mai kama da foda a bayan doya da sabon toho girman tsiro ya tsaya,Yi amfani da tsiro mara cuta guji shuka a gonar da ta taɓa kamuwa da cutar yi wa kasa magani kafin shuka
+Yam Mild Mosaic Virus,tabo kore mai haske marar tsanani a ganye murdiya ganye kadan raguwar amfanin gona kadan,Yi amfani da iri doya da aka gwada shawo kan kwari masu daukar cuta cire shukokin da suka kamu da cutar sosai
+Yam Nitrogen Deficiency,ganye kore mai haske zuwa rawaya raunanar kara karamin girman doya,Yi amfani da takin nitrogen a lokacin girma da ya dace sanya taki na gargajiya yi jujjuya amfanin gona
+Yam Potassium Deficiency,konewa a gefen ganye raunanar girman kara rashin kyawon girman doya,Yi amfani da takin potassium yi amfani da tokar itace a matsayin karin sinadari tabbatar da daidaiton sinadarai a kasa
+Yam Tuber Cracking Disorder,fashewa mai tsayi a fatar doya sanadin rashin daidaiton ruwa raguwar darajar kasuwa,Tabbatar da tabbataccen danshin kasa ta hanyar rufe kasa guji ban ruwa mai yawa bayan lokacin fari girbi lokacin balaga daidai
+Yam Internal Browning Storage Disorder,canjin launi mai launin ruwan kasa a ciki babu alamun waje yana faruwa a lokacin ajiya mai tsawo,Ajiye a zafi da danshi da aka ba da shawara guji lalacewar injina lokacin ɗauka lura da doyar da aka ajiye akai akai
+Sweet Potato Leaf Curl Virus,murdiyar ganye zuwa sama kaurin ganye tsayawar girman kara,Yi amfani da tsiro mara kwayar cuta shawo kan farin fara mai daukar cuta cire shukokin da suka kamu da cutar sosai
+Sweet Potato Mild Mottle Virus,tabo kadan a ganye murdiya ganye kadan asarar amfanin gona kadan,Yi amfani da yankakken tsiro da aka tabbatar babu kwayar cuta shawo kan kwari masu daukar cuta guji sake shuka daga gonar da ta kamu
+Sweet Potato Chlorotic Stunt Virus,tsananin tsayawar girma rawaya na jijiyoyin ganye raguwar samuwar tushen ajiya,Yi amfani da tsiro da aka rijista cutar shawo kan farin fara mai daukar cuta cire shukokin da suka kamu da cutar nan take
+Sweet Potato Bacterial Wilt,yankewa kwatsam na dukkan tsiro canjin launi na jijiyoyin ruwa ruwan kwayar cuta daga yankakken tsiro,Yi amfani da nau'in da ke jure wa cutar yi jujjuya amfanin gona guji shuka a gonar da ta taɓa kamuwa da cutar
+Sweet Potato Scab,raunuka masu kauri da tashe a bayan tushen raguwar ingancin kasuwa,Yi amfani da tsiro mara cuta guji shuka a kasar da ta kamu da cutar na tsawon lokaci mai yawa kula da daidaiton pH na kasa
+Sweet Potato Alternaria Leaf Spot,tabo masu duhu launin ruwan kasa zagaye da zoben da'ira a ganye zuben ganye da wuri,Yi amfani da maganin fungicide cire tarkacen shuka da suka kamu da cutar guji ban ruwa daga sama
+Sweet Potato White Rust,fararen kumburi kama da roro a karkashin ganye murdiya da lalacewar ganye,Yi amfani da maganin fungicide cire ganyen da suka kamu da cutar sosai tabbatar da yaduwar iska mai kyau
+Sweet Potato Stem Rot,raunuka baki a gindin tsiro yankewa da rawaya na kara rushewar tsiro,Cire kuma a lalata shukokin da suka kamu da cutar guji kasa mai ruwa mai yawa yi amfani da yankakke mara cuta
+Sweet Potato Mole Cricket Damage,ramuka a cikin tushen da tsiro sabbin shuke shuke na yankewa an tumbuke iri,Shirya kasa sosai kafin shuka yi amfani da maganin kwari a kasa yi amfani da tarko mai koda
+Sweet Potato Flea Beetle Damage,kanana ramuka masu zagaye a ganye kama da harbin bindiga rage aikin photosynthesis,Yi amfani da maganin kwari da aka ba da shawara cire ciyawar da ke ɓoye kwari yi jujjuya amfanin gona akai akai
+Sweet Potato Termite Damage,tsire da tushen da aka rurrushe tsarin shuka ya raunana yankewa kwatsam da rushewa,Cire tarkacen shuka da kwari ya cinye yi amfani da maganin kwari a kasa yi amfani da tsiro mai jure wa gara
+Sweet Potato Nitrogen Deficiency,ganye kore rawaya haske raunanar girman kara karamin girman tushen,Yi amfani da takin nitrogen a farkon lokacin girma sanya takin gargajiya inganta albarkar kasa
+Sweet Potato Potassium Deficiency,konewar gefen ganye raunanar girman kara rashin kyawon ingancin tushen ajiya,Yi amfani da takin potassium yi amfani da karin tokar itace gwada kasa kafin shuka
+Sweet Potato Internal Cork Disorder,naman kauri mai launin ruwan kasa a cikin tushen ba a iya gani daga waje ba kwayar cuta mai sarkakiya ce ta haddasa,Yi amfani da tsiro da aka tabbatar babu cuta shawo kan kwari masu daukar cuta guji yaɗuwa daga shukokin da abin ya shafa

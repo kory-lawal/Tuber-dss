@@ -1,0 +1,85 @@
+Disease,Symptoms,Treatment
+Ọrịa Anthracnose nke ji,Akpụkpọ ojii n’akwụkwọ mmebi akwụkwọ na ịnwụ̀ nke ogwe osisi,Tinye ọgwụ igbochi fungus ma mee ka ịdị ọcha n’ubi ka mma.
+Ọrịa mosaic nke akpụ̀,Akwụkwọ odo odo ụdị mosaic n’akwụkwọ na uto na-adịghị mma,Jiri ụdị akpụ̀ na-eguzogide ọrịa ma wepụ osisi ndị ọrịa kpara.
+Ọrịa Mosaic Cassava,akwụkwọ odo na ụdị mosaic uto na-adịghị mma,Jiri ụdị na-eguzogide ọrịa ma wepụ osisi ọrịa
+Ọrịa Bacterial Blight,akwụkwọ na-anwụ na ntụpọ ojii,Jiri mkpụrụ dị ọcha
+Ọrịa Root Rot,mkpụrụ na-ere ere na isi ọjọọ,Mee ka mmiri na-apụ ngwa
+Ọrịa Anthracnose Yam,akpụkpọ ojii na akwụkwọ na ịnwụ̀,Tinye ọgwụ fungus
+Ọrịa Tuber Rot,tuber na-ere ere na isi ọjọọ,Debe ya n’ebe kpọrọ nkụ
+Ọrịa Leaf Spot,ntụpọ na akwụkwọ odo,Tinye fungicide
+Ọrịa Virus Sweet Potato,akwụkwọ na-agbanwe agba,Jiri mkpụrụ na-enweghị ọrịa
+Bacterial Wilt,osisi na-anwụ ngwa ngwa,Wepụ osisi ọrịa
+Leaf Blight,akwụkwọ na-acha aja aja,Tinye fungicide
+Root Knot Nematode,mkpụrụ na-akpụ akpụ,Gbanwee ihe ubi
+Ọrịa Green Mite,akwụkwọ na-emebi,Jiri ụzọ nchebe
+Ibajẹ Beetle Yam,oghere na tuber,Jiri ọgwụ kwari
+Early Blight,ntụpọ aja aja na akwụkwọ,Tinye fungicide
+Late Blight,mmiri na akwụkwọ,Tinye ọgwụ
+Fusarium Wilt,akwụkwọ odo na ọnwụ osisi,Gbanwee ihe ubi
+Downy Mildew,fari n'okpuru akwụkwọ,Tinye fungicide
+Black Rot,ntụpọ ojii na mgbọrọgwụ,Wepụ osisi ọrịa
+Soft Rot,akụkụ dị nro na isi ọjọọ,Mee ka nchekwa dị mma
+Leaf Curl,akwụkwọ na-agbagọ,Jiri mkpụrụ dị mma
+Stem Rot,ogwe osisi na-emebi,Meziwanye drainageCassava Mosaic Disease,ihe odide edo edo na akwukwo ndu ewepụtara akwukwo uto akwadoro,Kụọ ụdị na-enweghị nrịa nrịa wepụ ma kpọọ ọkụ nnwepụ ọ na-eburu arịrị ọcha
+Cassava Brown Streak Disease,ahịrị aja aja na ogwe ntụpọ edo edo na akwụkwọ ire aja aja n'ime mgbọrọgwụ,Jiri ihe ọkụkụ enyere aka nke na-enweghị ọrịa wepụ ma bibie osisi ndị ọrịa jidere
+Cassava Bacterial Blight,ntụpọ akwụkwọ mmiri jupụtara akwụkwọ na-akpọnwụ mmiri na-asọpụta na ogwe,Jiri ihe ọkụkụ dị ọcha mee mgbanwe ihe ọkụkụ zere ọrụ n'ubi mmiri
+Cassava Anthracnose Disease,ọnya gbara ojii dabara na ogwe ọnya na alaka ọnwụ nke isi eweghara,Kpochapụ ma bibie akụkụ ndị ọrịa jidere tinye ọgwụ fungicide a tụrụ aro jiri ụdị na-enweghị ọrịa
+Cassava Root Rot,mgbọrọgwụ dị nro na-erughị ihe isi ọjọọ akwụkwọ na-acha odo odo ma na-akpọnwụ,Melite mmiri si n'ubi puta zere mmiri jupụta jiri mkpụrụ na-enweghị ọrịa tinye ọgwụ fungicide n'ala
+Cassava Green Mite Infestation,akwụkwọ nwere ntụpọ na-agbagọ ntụpọ edo edo n'elu akwụkwọ nnukwu akwụkwọ belatara,Webata anụ ọhịa na-eri ha na okike jiri ụdị na-enweghị ọrịa zere mkpa mmiri n'ahụ osisi
+Cassava Mealybug Infestation,isi eweghara na-adịghị eto etoju ọnụ n'elu ka ụyọkọ ahụhụ ọcha dị ka na-egbu maramara na ogwe,Webata ndị iro okike jiri mkpụrụ enyere aka zere ibugharị ihe ọkụkụ nwere ahụhụ
+Cassava Ash Whitefly Sooty Mould,ihe mkpuchi ojii dị ka ntụ n'elu akwụkwọ photosynthesis belatara mmanụ aṅụ na-arapara na akwụkwọ,Chịkwaa ọnụ ọgụgụ ahụhụ ọcha jiri ọgwụ nsi ahụhụ saa akwụkwọ metụtara kpochapụ alaka ndị nwere ọtụtụ ahụhụ
+Yam Mosaic Virus,ntụpọ akwụkwọ ndụ na-egbukepụ n'ọtụtụ ebe ka ọ dị na-acha akwụkwọ na-agbagọ mkpụrụ ji dara ada,Jiri mkpụrụ ji na-enweghị nje wepụ osisi ndị ọrịa jidere chịkwaa ụmụ ahụhụ na-ebu ọrịa
+Yam Anthracnose Disease,ntụpọ akwụkwọ aja aja gbara ojii mwepu akwụkwọ ọnwụ na ọnụ ntanetị,Tinye ọgwụ fungicide dabara jiri ụdị na-enweghị ọrịa zere ịkụ ihe ọkụkụ nso nso
+Yam Dry Rot,mgbanwe agba aja aja siri ike na-akọrọ n'ime ji akpịrị elu ji,Jiri mkpụrụ ahụike maka ịkụ mee nchekwa kwesịrị ekwesị jiri fungicide gwọọ mkpụrụ tupu ịkụ ya
+Yam Wet Rot,ire nro nwere mmiri nke ji isi ọjọọ mgbochi anụ ahụ ji,Melite mmiri na-apụ n'ebe nchekwa zere mmerụ ahụ n'oge iwe ihe ubi jiri ihe ọkụkụ na-enweghị ọrịa
+Yam Nematode Damage,akpụkpọ ji dị ntụpọ gbawara ọnya aja aja n'ime uto osisi belatara,Mee mgbanwe ihe ọkụkụ jiri ihe ọkụkụ na-enweghị nematode tinye ihe mmezi ala eke
+Yam Beetle Damage,olulu na oghere e gwuru n'ime ji akara dị n'akpụkpọ ji,Ghọrọ ihe ubi n'oge kwesịrị ekwesị tinye ọgwụ nsi ahụhụ e tụrụ aro jiri mkpụrụ ji dị ọcha
+Yam Leaf Spot,ntụpọ aja aja obere gburugburu n'akwụkwọ ntụpọ edo edo gburugburu ntụpọ akwụkwọ na-adaji tupu oge ya,Fesa ọgwụ fungicide wepụ akwụkwọ dara nke ọrịa jidere zere ide mmiri site n'elu
+Yam Tuber Storage Rot,ji echekwabara na-esighị ike na-adịghịkwa ike uto ederede n'elu isi ọjọọ,Chekwaa n'ọba nwere ikuku mma gwọọ ji tupu nchekwa wepụ ji mebiri emebi mgbe niile
+Sweet Potato Virus Disease,ome na-adịghị eto akwụkwọ pere mpe na-acha odo odo akwara akwụkwọ na-acha odo odo mkpụrụ mgbọrọgwụ dara ada,Jiri ihe ọkụkụ enyere aka a nyochara nje chịkwaa ụmụ ahụhụ na-ebu ọrịa wepụ osisi ndị ọrịa jidere
+Sweet Potato Weevil Damage,oghere e gwuru n'ime mgbọrọgwụ ilu ilu na isi ọjọọ na mgbọrọgwụ metụtara ome na-akpọnwụ,Mee mgbanwe ihe ọkụkụ kpokọta ala na ntọala ghọrọ ngwa ngwa jiri ihe ọkụkụ dị ọcha
+Sweet Potato Black Rot,ọnya ojii dabara na mgbọrọgwụ ilu ilu ntụpọ ojii na ome na-epuputa,Jiri iwe osisi na-enweghị ọrịa mee mgbanwe ihe ọkụkụ zere imerụ mgbọrọgwụ n'oge iwe ihe ubi
+Sweet Potato Scurf,ntụpọ aja aja gbara ojii na-adịghị omimi n'elu akpụkpọ mgbọrọgwụ na-esiwanye ike enweghị mmerụ n'ime,Jiri ihe ọkụkụ na-enweghị ọrịa mee mgbanwe ihe ọkụkụ gwọọ mgbọrọgwụ nke ọma mgbe iwe ihe ubi gasịrị
+Sweet Potato Foot Rot,ọnya ojii na ntọala ogwe na-akpọnwụ na ọnwụ ome mgbanwe agba ojii na-agbasa gaa n'elu,Wepụ ma bibie osisi ndị ọrịa jidere zere mmiri jupụta jiri ụdị na-enweghị ọrịa
+Sweet Potato Fusarium Wilt,akwụkwọ ala na-acha odo odo ma na-akpọnwụ mgbanwe agba aja aja nke akwara ahụ uto ome belatara,Jiri ụdị na-enweghị ọrịa mee mgbanwe ihe ọkụkụ zere ịkụ n'ala nwere ahụhụ
+Sweet Potato Leaf Spot,ntụpọ gburugburu obere nwere agba tan na oke ojii n'akwụkwọ mwepu akwụkwọ tupu oge ya,Fesa ọgwụ fungicide wepụ irighiri akwụkwọ ndị ọrịa jidere zere ide mmiri site n'elu
+Sweet Potato Soft Rot,ire nro nwere mmiri nke mgbọrọgwụ echekwabara isi ọjọọ mgbasa ngwa ngwa na nchekwa,Gwọọ mgbọrọgwụ tupu nchekwa chekwaa n'ebe akọrọ nwere ikuku wepụ mgbọrọgwụ mebiri ngwa ngwa
+Sweet Potato Root Knot Nematode,mgbọrọgwụ na-akpụ akpụ uto ome belatara akwụkwọ na-acha odo odo,Mee mgbanwe ihe ọkụkụ jiri ụdị na-enweghị nematode tinye ihe eke n'ala
+Cassava Superelongation Disease,ogologo adịghị mma nke etiti ogwe ogwe dị mkpa na-adịghị ike mmepe mkpụrụ ji belatara,Jiri ụdị na-enweghị ọrịa tinye ọgwụ fungicide dabara zere ihe ọma nitrogen buru ibu
+Cassava White Leaf Spot,ntụpọ ọcha ruo isi awọ obere nwere oke ojii n'akwụkwọ mwepu akwụkwọ tupu oge ya,Tinye ọgwụ fungicide dabere na ọla kọpa wepụ ma bibie akwụkwọ dara mee ka oghere ubi ka mma
+Cassava Brown Leaf Spot,ntụpọ aja aja gburugburu nwere ntụpọ edo edo n'akwụkwọ agadi mwepu akwụkwọ nwayọọ nwayọọ,Wepụ akwụkwọ ndị ọrịa jidere tinye ọgwụ fungicide ọ bụrụ na ọ dị njọ jiri oghere ịkụ ihe ọkụkụ saara mbara
+Cassava Witches Broom Disease,mkpokọta na-adịghị mma nke ome akwụkwọ obere na-acha odo odo gbagọrọ agbagọ mkpụrụ ji dara ada,Wepụ ma bibie osisi metụtara chịkwaa ụmụ ahụhụ leafhopper na-ebu ọrịa jiri ihe ọkụkụ dị ọcha
+Cassava Rust,ntụpọ oroma ruo aja aja n'okpuru akwụkwọ ihu akwụkwọ na-acha odo odo,Tinye ọgwụ fungicide dabara wepụ akwụkwọ ndị ọrịa jidere nke ukwuu meliwanye ntughari ikuku n'etiti osisi
+Cassava Scab,ọnya siri ike na-apụta apụta na ogwe na petiole owuwu akpụkpọ osisi,Kpochapụ akụkụ metụtara tinye ọgwụ fungicide jiri mkpụrụ na-enweghị ọrịa maka ọhụrụ ịkụ
+Cassava Stem Borer Damage,oghere e gwuru n'ime ogwe ome elu na-akpọnwụ owuwu osisi na-esighị ike,Wepụ ma kpọọ ọkụ ogwe ndị ahụhụ jupụtara jiri ihe ọkụkụ dị ọcha tinye ọgwụ nsi ahụhụ e tụrụ aro
+Cassava Termite Damage,ogwe na mgbọrọgwụ tọgbọrọ chakoo ntọala osisi na-esighị ike mgbochi osisi tozuru okè,Wepụ irighiri ihe ọkụkụ ahụhụ jupụtara jiri ụdị na-enweghị ide ahụhụ tinye ọgwụ nsi ahụhụ n'ala
+Cassava Scale Insect Infestation,obere ahụhụ aja aja ma ọ bụ ọcha yiri akpịrịkpa na ogwe ume belatara akwụkwọ na-acha odo odo,Webata anụ ọhịa na-eri ha na okike fesa mmanụ horticultural kpochapụ ogwe ndị ahụhụ jupụtara
+Cassava Grasshopper Damage,oghere na-ahaghị nma e ripịara n'akwụkwọ mwepu akwụkwọ zuru oke n'ọnọdụ siri ike photosynthesis belatara,Tinye ọgwụ nsi ahụhụ e tụrụ aro kwado anụ ọhịa okike dịka nnụnụ ghọrọ ihe ubi n'oge ọ bụrụ na ahụhụ dị njọ
+Cassava Nitrogen Deficiency,akwụkwọ na-acha odo odo nchara uto belatara ogwe dị mkpa mmepe ji na-adịghị mma,Tinye ihe ọma bara ụba na nitrogen tinye nri anụ ọhịa eke mee mgbanwe ihe ọkụkụ dabara
+Cassava Potassium Deficiency,ntụpọ edo edo n'akụkụ akwụkwọ oke akwụkwọ na-agbaji ngwa ngwa nha mgbọrọgwụ na ji na-adịghị mma,Tinye ihe ọma bara ụba na potassium jiri ntụ osisi dịka isi mmalite eke nyocha ala mgbe niile
+Yam Leaf Blight,ọnya mmiri jupụtara n'akwụkwọ mgbasa ngwa ngwa n'ihu igwe mmiri akwụkwọ na-ada,Fesa ọgwụ fungicide n'oge mmiri melite mmiri si n'ubi puta zere ịkụ ihe ọkụkụ nso nso
+Yam Rust,ntụpọ oroma dịka nchara n'okpuru akwụkwọ akwụkwọ na-acha odo odo ma na-ada tupu oge ya,Tinye ọgwụ fungicide dabere na sọlfọ wepụ akwụkwọ ndị ọrịa jidere nke ukwuu hụ na oghere ubi dị mma
+Yam Scale Insect Infestation,obere akpịrịkpa aja aja na-arapara n'elu ji àdị ji dara ada mkpuchi na-egbu oge,Jiri ọgwụ nsi ahụhụ gwọọ mkpụrụ tupu ịkụ ya chekwaa ji n'ọnọdụ akọrọ dị ọcha
+Yam Shoot Beetle Damage,oghere na ome ọhụrụ ọnụ ntanetị na-akpọnwụ uto mbụ belatara,Tinye ọgwụ nsi ahụhụ e tụrụ aro n'oge ịkụ wepụ ma bibie ome ndị ahụhụ jupụtara
+Yam Termite Damage,oghere e gwuru n'ime ji na ntọala ogwe osisi na-esighị ike mgbochi ome,Wepụ irighiri ihe ọkụkụ ahụhụ jupụtara tinye ọgwụ nsi ahụhụ n'ala jiri mkpụrụ na-enweghị ide ahụhụ
+Yam Bacterial Soft Rot,ire mmiri na-agbamgba nwere isi ọjọọ mmebi anụ ahụ ngwa ngwa na nchekwa,Gwọọ ji nke ọma tupu nchekwa zere mmerụ ahụ n'oge iwe ihe ubi tụfuo ji metụtara ozugbo
+Yam Smut Disease,ntụ spore ojii dị ka ájá n'elu ji na ome uto osisi belatara,Jiri ihe ọkụkụ na-enweghị ọrịa zere ịkụ n'ubi ndị ọrịa jidere na mbụ gwọọ ala tupu ịkụ
+Yam Mild Mosaic Virus,ntụpọ ìhè akwụkwọ ndụ dị nro n'akwụkwọ nrụgharị akwụkwọ dị nro mkpụrụ dara ada dị nro,Jiri mkpụrụ ji a nyochara nje chịkwaa ụmụ ahụhụ na-ebu ọrịa wepụ osisi ndị ọrịa jidere nke ukwuu
+Yam Nitrogen Deficiency,akwụkwọ ndụ nchara ruo odo odo ike ome belatara nha ji dị obere,Tinye ihe ọma nitrogen n'oge uto dabara tinye nri compost mee mgbanwe ihe ọkụkụ
+Yam Potassium Deficiency,ọkụ n'akụkụ akwụkwọ uto ome na-adịghị ike ji anaghị agbasawanye nke ọma,Tinye ihe ọma potassium jiri ntụ osisi dịka mgbakwunye hụ na nri ala hà
+Yam Tuber Cracking Disorder,mgbawa ogologo n'elu ji nke mmiri na-ahaghị nma kpatara uru ahịa dara ada,Hụ na iru mmiri ala nọgide site na mulching zere mmiri buru ibu na mberede mgbe oge akọrọ gasịrị ghọrọ ihe ubi mgbe torozuru
+Yam Internal Browning Storage Disorder,mgbanwe agba aja aja n'ime na-enweghị mgbaàmà mpụga na-eme n'oge nchekwa ogologo,Chekwaa na okpomọkụ na iru mmiri e tụrụ aro zere mmebi igwe n'oge ijikwa nyochaa ji echekwabara mgbe niile
+Sweet Potato Leaf Curl Virus,mgbagọ akwụkwọ gaa n'elu ịsakwụ akwụkwọ uto ome belatara,Jiri ihe ọkụkụ na-enweghị nje chịkwaa ụmụ ahụhụ ọcha na-ebu ọrịa wepụ osisi ndị ọrịa jidere nke ukwuu
+Sweet Potato Mild Mottle Virus,ntụpọ dị nro n'akwụkwọ nrụgharị akwụkwọ dị nro mfu obere,Jiri ome enyere aka a nyochara nje chịkwaa ụmụ ahụhụ na-ebu ọrịa zere ọzọ ịkụ n'ubi ndị ọrịa jidere
+Sweet Potato Chlorotic Stunt Virus,ntụ oke akwara akwụkwọ na-acha odo odo mmepe mgbọrọgwụ nchekwa belatara,Jiri ihe ọkụkụ e depụtara ọrịa ya chịkwaa ụmụ ahụhụ ọcha wepụ osisi ndị ọrịa jidere ozugbo
+Sweet Potato Bacterial Wilt,mkpọnwụ na mberede nke osisi ahụ dum mgbanwe agba aja aja nke akwara ahụ mmiri nje si na ogwe e begburu,Jiri ụdị na-enweghị ọrịa mee mgbanwe ihe ọkụkụ zere ịkụ n'ubi ndị ọrịa jidere na mbụ
+Sweet Potato Scab,ọnya siri ike na-apụta apụta n'elu mgbọrọgwụ àdị ahịa dara ada,Jiri ihe ọkụkụ na-enweghị ọrịa zere ịkụ n'ala nwere ọrịa ruo ọtụtụ oge chekwaa nguzozi pH ala
+Sweet Potato Alternaria Leaf Spot,ntụpọ aja aja gbara ojii gburugburu nwere okirikiri n'akwụkwọ mwepu akwụkwọ tupu oge ya,Fesa ọgwụ fungicide wepụ irighiri ihe ọkụkụ ndị ọrịa jidere zere ide mmiri site n'elu
+Sweet Potato White Rust,ntụpọ ọcha dịka mmiri n'okpuru akwụkwọ mgbagọ na nrụgharị akwụkwọ,Fesa ọgwụ fungicide wepụ akwụkwọ ndị ọrịa jidere nke ukwuu hụ na ntughari ikuku dị mma
+Sweet Potato Stem Rot,ọnya ojii na ntọala ogwe na-akpọnwụ na-acha odo odo nke ome mgbochi osisi,Wepụ ma bibie osisi ndị ọrịa jidere zere ala mmiri jupụtara jiri iwe osisi na-enweghị ọrịa
+Sweet Potato Mole Cricket Damage,oghere e gwuru gafere mgbọrọgwụ na ogwe ome na-akpọnwụ mkpụrụ osisi ka a hopiri,Kwadebe ala nke ọma tupu ịkụ ihe ọkụkụ tinye ọgwụ nsi ahụhụ n'ala jiri ọnyà em
+Sweet Potato Flea Beetle Damage,oghere obere gburugburu n'akwụkwọ ọdịdị dịka a gbagburu ya égbè photosynthesis belatara,Tinye ọgwụ nsi ahụhụ e tụrụ aro wepụ ahịhịa ọhịa na-echebe ahụhụ na-agbanwe ihe ọkụkụ mgbe niile
+Sweet Potato Termite Damage,ogwe na mgbọrọgwụ tọgbọrọ chakoo owuwu osisi na-esighị ike mkpọnwụ na mgbochi na mberede,Wepụ irighiri ihe ọkụkụ ahụhụ jupụtara tinye ọgwụ nsi ahụhụ n'ala jiri ihe ọkụkụ na-enweghị ide ahụhụ
+Sweet Potato Nitrogen Deficiency,akwụkwọ ndụ odo odo nchara uto ome belatara nha mgbọrọgwụ dị obere,Tinye ihe ọma nitrogen n'oge mbụ uto tinye compost melite ịba ụba nke ala
+Sweet Potato Potassium Deficiency,oke akwụkwọ na-agba ọkụ uto ome na-adịghị ike agwa mgbọrọgwụ nchekwa na-adịghị mma,Tinye ihe ọma potassium jiri mgbakwunye ntụ osisi nyocha ala tupu ịkụ
+Sweet Potato Internal Cork Disorder,anụ ahụ aja aja siri ike n'ime mgbọrọgwụ a na-apụghị ịhụ na mpụga nke nje dị mgbagwoju anya kpatara,Jiri ihe ọkụkụ enyere aka a gbara ama na-enweghị ọrịa chịkwaa ụmụ ahụhụ na-ebu ọrịa zere ịmụba site na osisi metụtara
